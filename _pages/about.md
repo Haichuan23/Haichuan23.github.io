@@ -14,13 +14,6 @@ Previously, I studied at the University of Chicago, where I obtained a tripe maj
 
 Last updated: June 2024
 
-Working Papers
-======
-
-\\( \cdot \\) Academic Publication Competition <br>
-Haichuan Wang, Yifan Wu, Haifeng Xu <br>
-**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** <br>
-
 CV
 ======
 
