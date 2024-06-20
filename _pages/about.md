@@ -21,5 +21,5 @@ Working Papers
 
 Haichuan Wang, Yifan Wu, Haifeng Xu
 
-** This paper won The David S. Hu Thesis Awards in Economics at UChicago **
+**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago**
 
