@@ -17,6 +17,6 @@ Working Papers
 
 Non-Academic Research
 ======
-Decentralized Paymaster 
-Calvin Cai, Kaili Wang, Joe Fang, Rachel Mayer, Michael Grant, **Haichuan Wang**.
-Patent Pending Application.
+\\( \cdot \\)  Decentralized Paymaster <br>
+Calvin Cai, Kaili Wang, Joe Fang, Rachel Mayer, Michael Grant, **Haichuan Wang**. <br>
+Patent Pending Application. <br>
