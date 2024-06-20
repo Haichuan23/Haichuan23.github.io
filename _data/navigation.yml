@@ -2,6 +2,9 @@
 main:
   - title: "Notes"
     url: /Notes/
+
+  - title: "Research"
+    url: /Research/
     
   # - title: "Publications"
   #   url: /publications/
