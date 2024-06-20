@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Haichuan Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,6 +16,10 @@ Last updated: June 2024
 
 Working Papers
 ======
-\cdot Academic Publication Competition
+
+\\( \cdot \\) Academic Publication Competition
+
 Haichuan Wang, Yifan Wu, Haifeng Xu
-The David S. Hu Awards in Economics at UChicago
+
+** This paper won The David S. Hu Thesis Awards in Economics at UChicago **
+
