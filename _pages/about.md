@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haichuan Wang's Homepage"
+title: "Haichuan Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
