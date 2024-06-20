@@ -12,7 +12,7 @@ Working Papers
 ======
 
 \\( \cdot \\) Academic Publication Competition <br>
-**Haichuan Wang**, Yifan Wu, Haifeng Xu <br>
+**Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** <br>
 
 Other Research
