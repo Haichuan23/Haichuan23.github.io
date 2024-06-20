@@ -15,7 +15,7 @@ Working Papers
 **Haichuan Wang**, Yifan Wu, Haifeng Xu <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** <br>
 
-Non-Academic Research
+Other Research
 ======
 \\( \cdot \\)  Decentralized Paymaster <br>
 Calvin Cai, Kaili Wang, Joe Fang, Rachel Mayer, Michael Grant, **Haichuan Wang**. <br>
