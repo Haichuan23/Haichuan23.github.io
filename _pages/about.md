@@ -17,5 +17,5 @@ Last updated: June 2024
 CV
 ======
 
-You can access my CV in the following link: [CV](https://www.dropbox.com/scl/fi/73fp00iis77wk8yloqbw0/Haichuan_CV.pdf?rlkey=buh0kw7beeezqkmu6lpgmtowa&st=uo2jalb5&dl=0)
+You can access my CV in the following link: [CV](https://www.dropbox.com/scl/fi/pm54m2ckykxzrje5gx8o7/Haichuan_CV_July2024.pdf?rlkey=lenj688yr5b9xq2q88hc94m2s&st=to4rpswi&dl=0)
 
