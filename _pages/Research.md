@@ -20,7 +20,7 @@ Publications
 ======
 \\( \cdot \\) Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation <br>
 Guojun Xiong, **Haichuan Wang**, Yuqi Pan, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe.<br>
-AAMAS 2025
+AAMAS 2025   [<a href="https://arxiv.org/abs/2501.06103" target="_blank">article</a>]
 
 
 Other Research
