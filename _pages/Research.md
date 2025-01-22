@@ -19,7 +19,7 @@ EC 24 Incentives in Academia Workshop <br>
 Publications
 ======
 \\( \cdot \\) Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation <br>
-Guojun Xiong, **Haichuan Wang**, Yuqi Pan, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe.
+Guojun Xiong, **Haichuan Wang**, Yuqi Pan, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe.<br>
 AAMAS 2025
 
 
