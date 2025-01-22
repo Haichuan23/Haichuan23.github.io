@@ -14,7 +14,7 @@ Working Papers
 \\( \cdot \\) Academic Publication Competition <br>
 **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
 EC 24 Incentives in Academia Workshop <br>
-**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** <be>
+**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/undergraduate-study/undergraduate-student-awards" target="_blank">link</a>] <be>
 
 Publications
 ======
