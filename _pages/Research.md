@@ -18,6 +18,8 @@ EC 24 Incentives in Academia Workshop <br>
 
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
 Mauricio Tec, Guojun Xiong, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
+In submission [<a href="https://arxiv.org/abs/2502.10732" target="_blank">article</a>]
+
 
 Publications
 ======
