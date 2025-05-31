@@ -17,7 +17,7 @@ EC 24 Incentives in Academia Workshop <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/undergraduate-study/undergraduate-student-awards" target="_blank">link</a>] <be>
 In submission
 
-Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
+\\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
 Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
 In submission [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
 
