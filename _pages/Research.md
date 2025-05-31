@@ -18,7 +18,7 @@ EC 24 Incentives in Academia Workshop <br>
 In submission
 
 Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data
-Lingkai Kong*, Haichuan Wang*, Tonghan Wang, Guojun Xiong, Milind Tambe
+Lingkai Kong*, Haichuan Wang*, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
 In submission [<a href="https://arxiv.org/abs/2505.23062" target="_blank">article</a>]
 
 
