@@ -10,9 +10,9 @@ redirect_from:
 
 I am a first-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. 
 
-Previously, I studied at the University of Chicago, where I obtained a triple major in Computer Science (Honors), Economics (Honors), and Mathematics. During my undergraduate years, I was fortunate to work with Professor Haifeng Xu on incentives in academia and Professor Anthony Lee Zhang on a series of crypto projects. I have also worked as a research intern at Circle, where I worked with Dr. Gordon Liao on DeFi research projects.
+Previously, I studied at the University of Chicago, where I obtained a triple major in Computer Science (Honors), Economics (Honors), and Mathematics. During my undergraduate years, I was fortunate to work with Professor Haifeng Xu on game theory, Professor Anthony Zhang, and Dr.Gordon Liao on Decentalized Finance.
 
-Last updated: June 2024
+Last updated: June 2025
 
 CV
 ======
