@@ -14,7 +14,7 @@ Working Papers
 \\( \cdot \\) Academic Publication Competition <br>
 *(α–β)* **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
 EC 24 Incentives in Academia Workshop <br>
-**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/undergraduate-study/undergraduate-student-awards" target="_blank">link</a>] <br>
+**This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/news/2024-undergraduate-awards-announced-annual-bbq" target="_blank">link</a>] <br>
 In submission
 
 \\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
