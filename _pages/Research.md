@@ -17,22 +17,23 @@ EC 24 Incentives in Academia Workshop <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/news/2024-undergraduate-awards-announced-annual-bbq" target="_blank">link</a>] <br>
 In submission
 
-\\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
-Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
-In submission [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
-
-
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
 Mauricio Tec, Guojun Xiong, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
 In submission [<a href="https://arxiv.org/abs/2502.10732" target="_blank">paper</a>]
 
+\\( \cdot \\) Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation <br>
+Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, Lily Xu, Milind Tambe
+In submission [<a href="https://arxiv.org/abs/2508.14342" target="_blank">paper</a>]
 
 Publications
 ======
+\\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
+Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
+NeurIPS 2025 (spotlight) [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
+
 \\( \cdot \\) Robust Optimization with Diffusion Models for Green Security <br>
 Lingkai Kong, **Haichuan Wang**, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe.<br>
 UAI 2025   [<a href="https://arxiv.org/abs/2503.05730" target="_blank">paper</a>]
-
 
 \\( \cdot \\) Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation <br>
 Guojun Xiong, **Haichuan Wang**, Yuqi Pan, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe.<br>
