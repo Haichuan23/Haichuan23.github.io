@@ -22,7 +22,7 @@ Mauricio Tec, Guojun Xiong, **Haichuan Wang**, Francesca Dominici, Milind Tambe.
 In submission [<a href="https://arxiv.org/abs/2502.10732" target="_blank">paper</a>]
 
 \\( \cdot \\) Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation <br>
-Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, Lily Xu, Milind Tambe
+Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, Lily Xu, Milind Tambe<br>
 In submission [<a href="https://arxiv.org/abs/2508.14342" target="_blank">paper</a>]
 
 Publications
