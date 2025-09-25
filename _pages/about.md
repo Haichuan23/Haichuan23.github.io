@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My broad interest is studying how to integrate AI into society.
+I am a second-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My broad interest is studying how to integrate AI into society. 
 
-Previously, I graduated Summa Cum Laude from the University of Chicago, where I obtained a triple major in Computer Science (Honors), Economics (Honors), and Mathematics. During my undergraduate years, I was fortunate to work with Professor Haifeng Xu on game theory, and with Professor Anthony Zhang and Dr.Gordon Liao on Decentralized Finance.
+Previously, I graduated Summa Cum Laude from the University of Chicago, where I obtained a triple major in Computer Science (Honors), Economics (Honors), and Mathematics. During my undergraduate years, I was fortunate to work with Professor Haifeng Xu on game theory, and with Professor Anthony Zhang and Dr. Gordon Liao on Decentralized Finance.
 
 Last updated: June 2025
 
