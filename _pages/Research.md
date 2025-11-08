@@ -19,7 +19,7 @@ Publications
 *(α–β)* **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
 EC 24 Incentives in Academia Workshop <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/news/2024-undergraduate-awards-announced-annual-bbq" target="_blank">link</a>] <br>
-AAAI 2026 <span style="color: red;">(oral)</span>
+AAAI 2026 <span style="color: red;">(Oral)</span>
 
 \\( \cdot \\) Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation <br>
 Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, Lily Xu, Milind Tambe<br>
@@ -27,7 +27,7 @@ IAAI 2026 [<a href="https://arxiv.org/abs/2508.14342" target="_blank">paper</a>]
 
 \\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
 Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
-NeurIPS 2025 <span style="color: red;">(spotlight)</span> [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
+NeurIPS 2025 <span style="color: red;">(Spotlight)</span> [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
 
 \\( \cdot \\) Robust Optimization with Diffusion Models for Green Security <br>
 Lingkai Kong, **Haichuan Wang**, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe.<br>
