@@ -19,7 +19,8 @@ Publications
 *(α–β)* **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
 EC 24 Incentives in Academia Workshop <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/news/2024-undergraduate-awards-announced-annual-bbq" target="_blank">link</a>] <br>
-AAAI 2026 <span style="color: red;">(Oral)</span>
+AAAI 2026 <span style="color: red;">(Oral)</span>[<a href="https://www.dropbox.com/scl/fo/le4dnx5173rmr1j76ltsx/ABELgLX2Blo9JD_RXUckGOE?rlkey=necttxz5bkmmn1fklypgj8f80&st=t5epjscu&dl=0" target="_blank">paper</a>]
+
 
 \\( \cdot \\) Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation <br>
 Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, Lily Xu, Milind Tambe<br>
