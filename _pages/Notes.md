@@ -17,3 +17,5 @@ This is my lecture note for ECMA30800: Auction Theory taught by Professor Philip
 This is my short note for complexity theory, adapted from my final cheat sheet (allowed by Professor Janos Simon of course). The content is mostly directly taken from Introduction to the Theory of Computation by Michael Sipser. This is written to just refresh my memory on major concepts, so I skipped a lot of proofs and concepts like circuit complexity. 
 
 
+[When Agents Prefer Hacking To Failure: Evaluating Misalignment Under Pressure](https://www.lesswrong.com/posts/AJANBeJb2p39su6F9/cs2881r-week-8-when-agents-prefer-hacking-to-failure)
+Group Project for CS2881 AI Safety course taught by Professor Boaz Barak in Fall 2025. Most of the flowers should go to my excellent teammates. 
