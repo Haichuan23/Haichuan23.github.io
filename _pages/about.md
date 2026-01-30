@@ -14,7 +14,7 @@ I am a second-year CS PhD student at Harvard University, where I am fortunate to
 1. Applying tools from **machine intelligence**—namely, probabilistic models—to understand human behavior.
 2. Applying tools traditionally used to study **human intelligence**—namely, game theory—to understand machine behavior.
    
-In slightly fancier terms, the unifying theme of my research is to deconstruct the binary between humans and machines. I first became interested in this question while studying media aesthetics in college, and I am glad to see it eventually return to my work.
+In slightly fancier terms, the unifying theme of my research is to deconstruct the binary between humans and machines. I first became interested in this question while studying media aesthetics in college, and I am glad to see it eventually comes back to me.
 
 ---
 ## (1) Modeling Human Behavior with Generative Models
