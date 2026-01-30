@@ -31,6 +31,7 @@ Traditional game theory assumes that agents act rationally or follow bounded rat
 
 - **Transferring strategic knowledge across similar players** *(NeurIPS 2025)*  
   *Composite Flow Matching for RL with Shifted-Dynamics Data*
+  
 ---
 ## (2) Understanding AI Systems through Game Theory
 
