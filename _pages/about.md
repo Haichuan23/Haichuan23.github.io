@@ -38,7 +38,7 @@ Traditional game theory assumes that agents act rationally or follow bounded rat
 Post-trained AI systems are goal-oriented, and in this sense can be understood as rational decision-makers. This perspective unlocks tools from **game theory** for understanding complex AI systems. For example, the reward model in alignment is essentially an incentive mechanism and one may ask what's the optimal such mechanism. I hope this perspective can offer new insights into questions that are central to the **design and alignment of next-generation AI systems**.
 
 ### Exemplary Project
-- **Design better incentive mechanism for alignment ** *(In Submission)*  
+- **Design better incentive mechanism for alignment** *(In Submission)*  
   *Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective*
     
 ---
