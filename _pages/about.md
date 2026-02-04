@@ -35,13 +35,11 @@ Traditional game theory assumes that agents act rationally or follow bounded rat
 ---
 ## (2) Understanding AI Systems through Game Theory
 
-Post-trained AI systems are goal-oriented, and in this sense can be understood as rational decision-makers. This perspective unlocks tools from **game theory** for understanding complex AI systems. I hope this perspective can offer new insights into questions that are central to the **design and alignment of next-generation AI systems**.
+Post-trained AI systems are goal-oriented, and in this sense can be understood as rational decision-makers. This perspective unlocks tools from **game theory** for understanding complex AI systems. For example, the reward model in alignment is essentially an incentive mechanism and one may ask what's the optimal such mechanism. I hope this perspective can offer new insights into questions that are central to the **design and alignment of next-generation AI systems**.
 
 ### Exemplary Project
 
-- **Alignment** *(In submission)*  
-  The reward model in alignment is essentially an incentive mechanism. What is the optimal such mechanism?
-
+- **Alignment** *(In submission)* 
   *Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective*
   
 ---
