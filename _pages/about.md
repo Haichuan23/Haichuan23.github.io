@@ -41,6 +41,7 @@ Post-trained AI systems are goal-oriented, and in this sense can be understood a
 
 - **Alignment** *(In submission)*  
   The reward model in alignment is essentially an incentive mechanism. What is the optimal such mechanism?
+
   *Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective*
   
 ---
