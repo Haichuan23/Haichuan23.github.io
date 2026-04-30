@@ -15,11 +15,11 @@ Publications
 ======
 
 \\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
-Yuqi Pan\*, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson
+Yuqi Pan\*, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson.<br>
 ICML 2026
 
 \\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
-**Haichuan Wang**, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, Milind Tambe
+**Haichuan Wang**, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, Milind Tambe.<br>
 ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>]
 
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
