@@ -13,10 +13,13 @@ Working Papers
 
 Publications
 ======
+\\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
+**Haichuan Wang**, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, Milind Tambe
+ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>]
+
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
 Mauricio Tec, Guojun Xiong, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
 ICJAI 2026 [<a href="https://arxiv.org/abs/2502.10732" target="_blank">paper</a>]
-
 
 \\( \cdot \\) The Publication Choice Problem <br>
 *(α–β)* **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
