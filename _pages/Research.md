@@ -9,10 +9,15 @@ redirect_from:
 
 Working Papers
 ======
-
+TBA
 
 Publications
 ======
+
+\\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
+Yuqi Pan\*, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson
+ICML 2026
+
 \\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
 **Haichuan Wang**, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, Milind Tambe
 ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>]
