@@ -15,7 +15,7 @@ Publications
 ======
 
 \\( \cdot \\) Adaptive Multi-Round Allocation with Stochastic Arrivals <br>
-Yuqi Pan\*, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson.<br>
+Yuqi Pan\*, Davin Choo\*, **Haichuan Wang**, Milind Tambe, Alastair van Heerden, Cheryl Johnson.<br>
 ICML 2026
 
 \\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
