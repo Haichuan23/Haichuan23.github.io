@@ -1,5 +1,5 @@
 ---
-title: "Economics and Computation"
+title: "CS1360: Economics and Computation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/economics-and-computation
