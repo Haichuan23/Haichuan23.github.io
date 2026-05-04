@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate seminar"
 permalink: /teaching/cs2880-ai-for-social-impact
 venue: "Harvard University"
-date: 2025-01-01
+date: 2026 Spring
 location: "Cambridge, MA"
 ---
 
