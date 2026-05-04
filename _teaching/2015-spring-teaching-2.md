@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS2880: AI for Social Impact"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate seminar"
+permalink: /teaching/cs2880-ai-for-social-impact
+venue: "Harvard University"
+date: 2025-01-01
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Fellow for CS2880: AI for Social Impact, a graduate seminar taught by Professor Milind Tambe.
