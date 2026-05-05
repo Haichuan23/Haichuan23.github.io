@@ -23,12 +23,11 @@ ICML 2026
 ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>]
 
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
-Mauricio Tec, Guojun Xiong, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
+Mauricio Tec\*, Guojun Xiong\*, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
 ICJAI 2026 [<a href="https://arxiv.org/abs/2502.10732" target="_blank">paper</a>]
 
 \\( \cdot \\) The Publication Choice Problem <br>
 *(α–β)* **Haichuan Wang**, Yifan Wu, Haifeng Xu. <br>
-EC 24 Incentives in Academia Workshop <br>
 **This preliminary version of this paper won The David S. Hu Thesis Awards in Economics at UChicago** [<a href="https://economics.uchicago.edu/news/2024-undergraduate-awards-announced-annual-bbq" target="_blank">link</a>] <br>
 AAAI 2026 <span style="color: red;">(Oral)</span>[<a href="https://haichuan23.github.io/files/pub-choice-full.pdf" target="_blank">paper</a>]
 
@@ -38,7 +37,7 @@ Lingkai Kong\*, **Haichuan Wang\***, Charles A. Emogor, Vincent Börsch-Supan, L
 IAAI 2026 [<a href="https://arxiv.org/abs/2508.14342" target="_blank">paper</a>]
 
 \\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
-Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
+Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang\*, Guojun Xiong, Milind Tambe.<br>
 NeurIPS 2025 <span style="color: red;">(Spotlight)</span> [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>][<a href="https://github.com/Haichuan23/CompositeFlow" target="_blank">code</a>]
 
 \\( \cdot \\) Robust Optimization with Diffusion Models for Green Security <br>
