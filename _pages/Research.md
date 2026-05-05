@@ -39,7 +39,7 @@ IAAI 2026 [<a href="https://arxiv.org/abs/2508.14342" target="_blank">paper</a>]
 
 \\( \cdot \\) Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
 Lingkai Kong\*, **Haichuan Wang\***, Tonghan Wang, Guojun Xiong, Milind Tambe.<br>
-NeurIPS 2025 <span style="color: red;">(Spotlight)</span> [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>]
+NeurIPS 2025 <span style="color: red;">(Spotlight)</span> [<a href="https://arxiv.org/abs/2505.23062" target="_blank">paper</a>][<a href="https://github.com/Haichuan23/CompositeFlow" target="_blank">code</a>]
 
 \\( \cdot \\) Robust Optimization with Diffusion Models for Green Security <br>
 Lingkai Kong, **Haichuan Wang**, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe.<br>
