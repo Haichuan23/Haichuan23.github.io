@@ -14,7 +14,7 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
 <div class="research-directions" style="margin: 1.25em 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; line-height: 1.5;">
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is possible: Align strategic agents.</summary>
-    <p style="margin: 0.85em 0 0;">How can we design incentives that align a strategic agent's behavior with our goals? I study how game theory can inform reward design and the alignment of generative AI systems.</p>
+    <p style="margin: 0.85em 0 0;">In reward-based alignment, such as RL post-training and controlled decoding, the reward model serves as an incentive mechanism, shaping the agent’s utility through a KL-regularized objective. From this perspective, misalignment arises when these incentives diverge from the behavior humans intend to encourage. This research thread aims to better align agents and agentic systems with human intentions by improving the incentives encoded in reward models and training objectives.</p>
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is uncertain: Detect and correct misalignment.</summary>
