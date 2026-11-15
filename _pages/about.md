@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third year PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of strategic decision making and generative AI. Specifically, my interests are:
 
-<div class="research-directions" style="margin: 1.25em 0;">
+<div class="research-directions" style="margin: 1.25em 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; line-height: 1.5;">
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is possible: Align strategic agents.</summary>
     <p style="margin: 0.85em 0 0;">How can we design incentives that align a strategic agent's behavior with our goals? I study how game theory can inform reward design and the alignment of generative AI systems.</p>
@@ -21,12 +21,12 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
     <p style="margin: 0.85em 0 0;">How can we determine whether an agent's behavior is aligned with our goals? I am interested in auditing AI systems to identify misalignment and using those findings to guide corrective interventions.</p>
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
-    <summary style="cursor: pointer; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; font-weight: 400; line-height: 1.5;">When alignment is infeasible: Learn to best respond.</summary>
+    <summary style="cursor: pointer; font-weight: 400;">When alignment is infeasible: Learn to best respond.</summary>
     <p style="margin: 0.85em 0 0;">Responding effectively to other agents requires understanding their strategies, which can be complex, high-dimensional, and multimodal. I use diffusion and flow-based models to represent these strategies and support better decision making.</p>
     <details style="border: 0; background: transparent; padding: 0; margin: 1em 0 0 1.25em;">
       <summary style="cursor: pointer; font-size: 1em; font-weight: 600;">When other players’ behavior data are available: Learn their strategies and best respond.</summary>
       <p style="margin: 0.85em 0 0;">When data on other players’ behavior are available, we can learn their strategies directly using a machine learning model, reducing reliance on unrealistic behavioral assumptions. Prior approaches often lack uncertainty quantification or impose restrictive parametric assumptions. Diffusion and flow-based models offer a flexible alternative: they capture complex, high-dimensional distributions and adapt to new strategic settings through conditional modeling. In the ranger–poacher game, we use these models to predict where poachers are likely to go in a national park and help rangers design patrol routes. Our results demonstrate that generative models can serve as effective behavioral models and inform decision making for societal benefit.</p>
-      <h4 style="margin: 1em 0 0.5em; font-size: 1em;">Exemplary Projects</h4>
+      <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Projects</h4>
       <ul>
         <li><strong>Learning human behavior under data scarcity and observational bias</strong> <em>(IAAI 2025)</em><br>
           <em>Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation</em></li>
