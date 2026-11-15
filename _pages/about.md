@@ -23,8 +23,10 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; font-weight: 400; line-height: 1.5;">When alignment is infeasible: Learn to best respond.</summary>
     <p style="margin: 0.85em 0 0;">Responding effectively to other agents requires understanding their strategies, which can be complex, high-dimensional, and multimodal. I use diffusion and flow-based models to represent these strategies and support better decision making.</p>
-    <h4 style="margin: 1em 0 0.5em; font-size: 1em;">When data are available: Learn other agents’ strategies.</h4>
-    <p style="margin: 0;">Flow matching, unlike standard diffusion models, can be initialized with any chosen initial distribution. My work on <strong>Composite Flow Matching (CompFlow)</strong> uses this flexibility to construct a warm-start initial distribution that <strong>provably makes flow-based learning easier</strong>. This approach is particularly well suited to modeling human behavior, where data are often scarce. We demonstrate its effectiveness by learning poacher behavior to inform better ranger patrol strategies.</p>
+    <details style="border: 0; background: transparent; padding: 0; margin-top: 1em;">
+      <summary style="cursor: pointer; font-size: 1em; font-weight: 600;">When data are available: Learn other agents’ strategies.</summary>
+      <p style="margin: 0.85em 0 0;">Flow matching, unlike standard diffusion models, can be initialized with any chosen initial distribution. My work on <strong>Composite Flow Matching (CompFlow)</strong> uses this flexibility to construct a warm-start initial distribution that <strong>provably makes flow-based learning easier</strong>. This approach is particularly well suited to modeling human behavior, where data are often scarce. We demonstrate its effectiveness by learning poacher behavior to inform better ranger patrol strategies.</p>
+    </details>
   </details>
 </div>
 
