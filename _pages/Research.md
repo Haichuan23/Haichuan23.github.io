@@ -10,7 +10,7 @@ redirect_from:
 Working Papers
 ======
 \\( \cdot \\) DiffNash: Finding Nash Equilibrium in High-Dimensional Continuous Action Spaces with Diffusion Policies <br>
-**Haichuan Wang**, Anagha Satish, Jiale Zheng, Saisneha Ghatti, Lingkai Kong, Kai Wang, Milind Tambe.<br>
+**Haichuan Wang\***, Anagha Satish\*, Jiale Zheng, Saisneha Ghatti, Lingkai Kong, Kai Wang, Milind Tambe.<br>
 arXiv 2026 [<a href="https://arxiv.org/abs/2610.15932" target="_blank">paper</a>]
 
 Publications
