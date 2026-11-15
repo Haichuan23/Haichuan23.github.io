@@ -28,11 +28,11 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
       <p style="margin: 0.85em 0 0;">When data on other players’ behavior are available, we can learn their strategies directly using a machine learning model, reducing reliance on unrealistic behavioral assumptions. Prior approaches often lack uncertainty quantification or impose restrictive parametric assumptions. Diffusion and flow-based models offer a flexible alternative: they capture complex, high-dimensional distributions and adapt to new strategic settings through conditional modeling. In the ranger–poacher game, we use these models to predict where poachers are likely to go in a national park and help rangers design patrol routes. Our results demonstrate that generative models can serve as effective behavioral models and inform decision making for societal benefit.</p>
       <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Projects</h4>
       <ul>
-        <li><strong>Learning human behavior under data scarcity and observational bias</strong> <em>(IAAI 2025)</em><br>
+        <li><strong>Learning human behavior under data scarcity and observational bias</strong> <em>(IAAI 2025; NeurIPS 2025 Tackling Climate Change with Machine Learning Workshop (<strong style="color: #c62828;">Oral</strong>))</em><br>
           <em>Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation</em></li>
         <li><strong>Playing against learned adversary strategies via robust optimization</strong> <em>(UAI 2025)</em><br>
           <em>Robust Optimization with Diffusion Models for Green Security</em></li>
-        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(NeurIPS 2025 Spotlight)</em><br>
+        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(NeurIPS 2025 <strong style="color: #c62828;">Spotlight</strong>)</em><br>
           <em>Composite Flow Matching for RL with Shifted-Dynamics Data</em></li>
       </ul>
     </details>
