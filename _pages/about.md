@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of **Strategic Decision Making and Generative AI**. Specifically, my interests are:
+I am a third-year CS PhD candidate at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of **Strategic Decision Making and Generative AI**. Specifically, my interests are:
 
 <div class="research-directions" style="margin: 1.25em 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; line-height: 1.5;">
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
