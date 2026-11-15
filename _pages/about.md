@@ -36,6 +36,9 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
           <em>Composite Flow Matching for RL with Shifted-Dynamics Data</em></li>
       </ul>
     </details>
+    <details style="border: 0; background: transparent; padding: 0; margin: 1em 0 0 1.25em;">
+      <summary style="cursor: pointer; font-size: 1em; font-weight: 700;">When other players’ behavior data are not available: Play the Nash equilibrium strategy.</summary>
+    </details>
   </details>
 </div>
 
