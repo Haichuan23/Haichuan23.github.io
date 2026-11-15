@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Strategic Decision Making and Generative AI"
 permalink: /Research/
 author_profile: true
 redirect_from:
