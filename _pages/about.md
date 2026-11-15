@@ -21,7 +21,7 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
     <p style="margin: 0.85em 0 0;">How can we determine whether an agent's behavior is aligned with our goals? I am interested in auditing AI systems to identify misalignment and using those findings to guide corrective interventions.</p>
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
-    <summary style="cursor: pointer; font-weight: 400;">When alignment is infeasible: Learn to best respond.</summary>
+    <summary style="cursor: pointer; font-weight: 700;">When alignment is infeasible: Learn to best respond.</summary>
     <p style="margin: 0.85em 0 0;">Responding effectively to other agents requires understanding their strategies, which can be complex, high-dimensional, and multimodal. I use diffusion and flow-based models to represent these strategies and support better decision making.</p>
     <details style="border: 0; background: transparent; padding: 0; margin: 1em 0 0 1.25em;">
       <summary style="cursor: pointer; font-size: 1em; font-weight: 600;">When other players’ behavior data are available: Learn their strategies and best respond.</summary>
