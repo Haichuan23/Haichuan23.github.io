@@ -9,7 +9,9 @@ redirect_from:
 
 Working Papers
 ======
-TBA
+\\( \cdot \\) DiffNash: Finding Nash Equilibrium in High-Dimensional Continuous Action Spaces with Diffusion Policies <br>
+**Haichuan Wang**, Anagha Satish, Jiale Zheng, Saisneha Ghatti, Lingkai Kong, Kai Wang, Milind Tambe.<br>
+arXiv 2026 [<a href="https://arxiv.org/abs/2610.15932" target="_blank">paper</a>]
 
 Publications
 ======
@@ -20,7 +22,7 @@ ICML 2026
 
 \\( \cdot \\) Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective <br>
 **Haichuan Wang**, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, Milind Tambe.<br>
-ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>]
+ICML 2026 [<a href="https://arxiv.org/abs/2602.02572" target="_blank">paper</a>][<a href="https://github.com/Haichuan23/Stackelberg-Reward-Shaping" target="_blank">code</a>]
 
 \\( \cdot \\) Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents <br>
 Mauricio Tec\*, Guojun Xiong\*, **Haichuan Wang**, Francesca Dominici, Milind Tambe.<br>
