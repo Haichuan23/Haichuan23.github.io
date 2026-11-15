@@ -32,7 +32,7 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
           <em>Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation</em></li>
         <li><strong>Playing against learned adversary strategies via robust optimization</strong> <em>(UAI 2025)</em><br>
           <em>Robust Optimization with Diffusion Models for Green Security</em></li>
-        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(NeurIPS 2025)</em><br>
+        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(NeurIPS 2025 Spotlight)</em><br>
           <em>Composite Flow Matching for RL with Shifted-Dynamics Data</em></li>
       </ul>
     </details>
