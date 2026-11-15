@@ -38,6 +38,12 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
     </details>
     <details style="border: 0; background: transparent; padding: 0; margin: 1em 0 0 1.25em;">
       <summary style="cursor: pointer; font-size: 1em; font-weight: 700;">When other players’ behavior data are not available: Play the Nash equilibrium strategy.</summary>
+      <p style="margin: 0.85em 0 0;">When data on other players’ behavior are unavailable, a Nash equilibrium strategy is the most robust in two-player zero-sum games. In continuous-action settings, existing deep learning approaches often use simple neural network architectures that can suffer from mode collapse, limiting their ability to capture complex, multimodal strategies. We use diffusion models to parameterize players’ policies within iterative game-solving algorithms, achieving substantially stronger empirical convergence in high-dimensional action spaces.</p>
+      <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Project</h4>
+      <ul>
+        <li><strong>Computing Nash equilibria in high-dimensional continuous-action games</strong><br>
+          <em><a href="https://arxiv.org/abs/2610.15932">DiffNash: Finding Nash Equilibrium in High-Dimensional Continuous Action Spaces with Diffusion Policies</a></em></li>
+      </ul>
     </details>
   </details>
 </div>
