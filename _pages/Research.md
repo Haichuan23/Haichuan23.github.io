@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Strategic Decision Making and Generative AI"
+title: "Research"
 permalink: /Research/
 author_profile: true
 redirect_from:
@@ -57,6 +57,3 @@ Other Research
 Calvin Cai, Kaili Wang, Joe Fang, Rachel Mayer, Michael Grant, **Haichuan Wang**. <br>
 Patent Pending Application. <br>
 
-Service
-======
-Reviewer: AIES 2025
