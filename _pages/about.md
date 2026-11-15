@@ -15,6 +15,11 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When Alignment Is Possible: Align Strategic Agents.</summary>
     <p style="margin: 0.85em 0 0;">In reward-based alignment, such as RL post-training and controlled decoding, the reward model serves as an incentive mechanism, shaping the agent’s utility through a KL-regularized objective. From this perspective, misalignment arises when these incentives diverge from the behavior humans intend to encourage. This research thread aims to better align agents and agentic systems with human intentions by improving the incentives encoded in reward models and training objectives.</p>
+    <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Projects</h4>
+    <ul>
+      <li><strong>Optimizing Reward Model As An Incentive Mechanism</strong> <em>(ICML 2026; EC26 Incentive-Based AI Alignment Workshop (<strong style="color: #c62828;">Oral</strong>))</em><br>
+        <em><a href="https://arxiv.org/abs/2602.02572">Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective</a></em></li>
+    </ul>
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When Alignment Is Uncertain: Detect And Correct Misalignment.</summary>
