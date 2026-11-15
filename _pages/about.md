@@ -30,6 +30,8 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   </details>
 </div>
 
+{% comment %}
+
 1. Applying tools from **machine intelligence**—namely, probabilistic models—to understand human behavior.
 2. Applying tools traditionally used to study **human intelligence**—namely, game theory—to understand machine behavior.
 
@@ -70,3 +72,4 @@ CV
 You can access my CV in the following link: [CV](https://www.dropbox.com/scl/fi/fjmtpxk3fxauk5xg9e9x4/Haichuan_CV_Sept2025.pdf?rlkey=bczxk277ycpx0ltgjdzbpvq1e&st=4q2c9rgk&dl=0)
 
 
+{% endcomment %}
