@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of **generative AI, game theory, and reinforcement learning**. Specifically, my interests are:
+I am a third year PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of strategic decision making and generative AI. Specifically, my interests are:
 
 1. Applying tools from **machine intelligence**—namely, probabilistic models—to understand human behavior.
 2. Applying tools traditionally used to study **human intelligence**—namely, game theory—to understand machine behavior.
