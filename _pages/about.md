@@ -22,7 +22,9 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   </details>
   <details style="border: 1px solid #d9dfe5; border-radius: 8px; padding: 0.85em 1em; margin-bottom: 0.65em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is infeasible: Learn to best respond.</summary>
-    <p style="margin: 0.85em 0 0;">How should we act when we cannot align another agent's behavior with our goals? I study how generative models can represent strategic behavior and support best-response computation and robust decision making.</p>
+    <p style="margin: 0.85em 0 0;">Responding effectively to other agents requires understanding their strategies, which can be complex, high-dimensional, and multimodal. I use diffusion and flow-based models to represent these strategies and support better decision making.</p>
+    <h4 style="margin: 1em 0 0.5em;">When data are available: Learn other agents’ strategies.</h4>
+    <p style="margin: 0;">Flow matching, unlike standard diffusion models, can be initialized with any chosen initial distribution. My work on <strong>Composite Flow Matching (CompFlow)</strong> uses this flexibility to construct a warm-start initial distribution that <strong>provably makes flow-based learning easier</strong>. This approach is particularly well suited to modeling human behavior, where data are often scarce. We demonstrate its effectiveness by learning poacher behavior to inform better ranger patrol strategies.</p>
   </details>
 </div>
 
