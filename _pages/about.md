@@ -18,7 +18,7 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is uncertain: Detect and correct misalignment.</summary>
-    <p style="margin: 0.85em 0 0;">How can we determine whether an agent's behavior is aligned with our goals? I am interested in auditing AI systems to identify misalignment and using those findings to guide corrective interventions.</p>
+    <p style="margin: 0.85em 0 0;">To be announced.</p>
   </details>
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 700;">When alignment is infeasible: Learn to best respond.</summary>
