@@ -53,6 +53,10 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
   </details>
 </div>
 
+I am a MATS 10 Fellow mentored by Peter Henderson, working on post-training.
+
+Previously, I graduated summa cum laude from the University of Chicago with a triple major in Computer Science (Honors), Economics (Honors), and Mathematics, and received the **David S. Hu Thesis Award in Economics**. During my undergraduate years, I worked with Professor Haifeng Xu on game theory and with Professor Anthony Zhang and Dr. Gordon Liao on decentralized finance.
+
 {% comment %}
 
 1. Applying tools from **machine intelligence**—namely, probabilistic models—to understand human behavior.
