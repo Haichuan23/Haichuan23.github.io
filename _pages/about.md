@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third year PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of **Strategic Decision Making and Generative AI**. Specifically, my interests are:
+I am a third-year CS PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of **Strategic Decision Making and Generative AI**. Specifically, my interests are:
 
 <div class="research-directions" style="margin: 1.25em 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; line-height: 1.5;">
   <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
@@ -17,7 +17,7 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
     <p style="margin: 0.85em 0 0;">In reward-based alignment, such as RL post-training and controlled decoding, the reward model serves as an incentive mechanism, shaping the agent’s utility through a KL-regularized objective. From this perspective, misalignment arises when these incentives diverge from the behavior humans intend to encourage. This research thread aims to better align agents and agentic systems with human intentions by improving the incentives encoded in reward models and training objectives.</p>
     <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Projects</h4>
     <ul>
-      <li><strong>Optimizing Reward Model As An Incentive Mechanism</strong> <em>(ICML 2026; EC26 Incentive-Based AI Alignment Workshop (<strong style="color: #c62828;">Oral</strong>))</em><br>
+      <li><strong>Optimizing Reward Model As An Incentive Mechanism</strong> <em>(<strong>ICML 2026</strong>; <strong>EC26 Incentive-Based AI Alignment Workshop</strong> (<strong style="color: #c62828;">Oral</strong>))</em><br>
         <em><a href="https://arxiv.org/abs/2602.02572">Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective</a></em></li>
     </ul>
   </details>
@@ -33,11 +33,11 @@ I am a third year PhD student at Harvard University, where I am fortunate to be 
       <p style="margin: 0.85em 0 0;">When data on other players’ behavior are available, we can learn their strategies directly using a machine learning model, reducing reliance on unrealistic behavioral assumptions. Prior approaches often lack uncertainty quantification or impose restrictive parametric assumptions. Diffusion and flow-based models offer a flexible alternative: they capture complex, high-dimensional distributions and adapt to new strategic settings through conditional modeling. In the ranger–poacher game, we use these models to predict where poachers are likely to go in a national park and help rangers design patrol routes. Our results demonstrate that generative models can serve as effective behavioral models and inform decision making for societal benefit.</p>
       <h4 style="margin: 1em 0 0.5em; font-family: inherit; font-size: 1em;">Exemplary Projects</h4>
       <ul>
-        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(NeurIPS 2025 <strong style="color: #c62828;">Spotlight</strong>)</em><br>
+        <li><strong>Efficiently transferring strategic knowledge across similar players</strong> using Optimal Transport <em>(<strong>NeurIPS 2025</strong> <strong style="color: #c62828;">Spotlight</strong>)</em><br>
           <em><a href="https://arxiv.org/abs/2505.23062">Composite Flow Matching for RL with Shifted-Dynamics Data</a></em></li>
-        <li><strong>Playing against learned adversary strategies via robust optimization</strong> <em>(UAI 2025)</em><br>
+        <li><strong>Playing against learned adversary strategies via robust optimization</strong> <em>(<strong>UAI 2025</strong>)</em><br>
           <em><a href="https://proceedings.mlr.press/v286/kong25c.html">Robust Optimization with Diffusion Models for Green Security</a></em></li>
-        <li><strong>Learning human behavior under data scarcity and observational bias</strong> <em>(IAAI 2025; NeurIPS 2025 Tackling Climate Change with Machine Learning Workshop (<strong style="color: #c62828;">Oral</strong>))</em><br>
+        <li><strong>Learning human behavior under data scarcity and observational bias</strong> <em>(<strong>IAAI 2025</strong>; <strong>NeurIPS 2025 Tackling Climate Change with Machine Learning Workshop</strong> (<strong style="color: #c62828;">Oral</strong>))</em><br>
           <em><a href="https://arxiv.org/abs/2508.14342">Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation</a></em></li>
       </ul>
     </details>
