@@ -12,15 +12,15 @@ redirect_from:
 I am a third year PhD student at Harvard University, where I am fortunate to be advised by Professor Milind Tambe. My research lies at the intersection of strategic decision making and generative AI. Specifically, my interests are:
 
 <div class="research-directions" style="margin: 1.25em 0;">
-  <details style="border: 1px solid #d9dfe5; border-radius: 8px; padding: 0.85em 1em; margin-bottom: 0.65em;">
+  <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is possible: Align strategic agents.</summary>
     <p style="margin: 0.85em 0 0;">How can we design incentives that align a strategic agent's behavior with our goals? I study how game theory can inform reward design and the alignment of generative AI systems.</p>
   </details>
-  <details style="border: 1px solid #d9dfe5; border-radius: 8px; padding: 0.85em 1em; margin-bottom: 0.65em;">
+  <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-weight: 600;">When alignment is uncertain: Detect and correct misalignment.</summary>
     <p style="margin: 0.85em 0 0;">How can we determine whether an agent's behavior is aligned with our goals? I am interested in auditing AI systems to identify misalignment and using those findings to guide corrective interventions.</p>
   </details>
-  <details style="border: 1px solid #d9dfe5; border-radius: 8px; padding: 0.85em 1em; margin-bottom: 0.65em;">
+  <details style="border: 0; background: transparent; padding: 0.25em 0; margin-bottom: 0.85em;">
     <summary style="cursor: pointer; font-family: 'Courier New', Courier, monospace; font-size: 0.95em; font-weight: 400; line-height: 1.5;">When alignment is infeasible: Learn to best respond.</summary>
     <p style="margin: 0.85em 0 0;">Responding effectively to other agents requires understanding their strategies, which can be complex, high-dimensional, and multimodal. I use diffusion and flow-based models to represent these strategies and support better decision making.</p>
     <h4 style="margin: 1em 0 0.5em; font-size: 1em;">When data are available: Learn other agents’ strategies.</h4>
